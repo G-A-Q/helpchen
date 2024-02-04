@@ -1,0 +1,13 @@
+﻿To create a GitHub account, you need to follow these steps:
+- Go to GitHub.com and click on the Sign up button in the top right corner.
+- Enter your username, email address, and password. 
+- Verify your account by solving a captcha and clicking on the Create account button.
+- Complete a survey about your interests and preferences. This is optional, but it can help GitHub customize your experience.
+- Confirm your email address by clicking on the link that GitHub sends you.
+
+To clone a repo to your local machine, you need to have Git installed on your computer. If you don't have it, you can download it from git-scm.com and follow the installation instructions.
+
+Once you have Git, you can clone a repo using the command line or a graphical interface. 
+- To clone a repo using HTTPS, copy the URL of the repo from the Code button on GitHub.com, open a terminal, navigate to the folder where you want to clone the repo, and type `git clone` followed by the URL. For example:
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+
